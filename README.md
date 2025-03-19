@@ -46,8 +46,7 @@
   <h3>👀 I’m interested in AI</h3>
 
   <p>Learning AI is valuable because it enables automation, enhances decision-making, and drives innovation across industries.<br/>
-  I am interested in AI because of its potential to solve complex problems, optimize processes,<br/>
-  and create intelligent systems that can improve efficiency and accuracy.<br/>
+  I am interested in AI because of its potential to solve complex problems, optimize processes, create intelligent systems.<br/>
   Additionally, AI is shaping the future of technology, making it an exciting and rewarding field to explore.</p>
 
   <h3>🌱 I’m currently learning AI</h3>
